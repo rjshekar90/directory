@@ -1,3 +1,3 @@
 
 
-web: sh -c "cd Directory && gunicorn directory.wsgi"
+web: sh -c "cd directory && gunicorn directory.wsgi"
