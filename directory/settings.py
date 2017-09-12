@@ -26,7 +26,7 @@ SECRET_KEY = 'g(bwari*bjurs^(v5$2vbe)!b50&%z8ql^2!$^lp3*9b+*gc3$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [boiling-temple-14086.herokuapp.com]
 
 
 # Application definition
