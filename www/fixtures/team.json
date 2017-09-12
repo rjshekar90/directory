@@ -1,0 +1,31 @@
+
+
+[
+  {
+    "model": "www.person",
+    "pk": 1,
+    "fields": {
+      "name": "Raja Shekar",
+      "title": "Graduate",
+      "email": "rsr@gmail.com",
+    }
+  },
+  {
+    "model": "www.person",
+    "pk": 2,
+    "fields": {
+      "name": "Hari Naicker",
+      "title": "Middle School Student",
+      "email": "hari@gmail.com",
+    }
+  },
+  {
+    "model": "www.person",
+    "pk": 3,
+    "fields": {
+      "name": "Hasini Naicker",
+      "title": "Elementary School Student",
+      "email": "Hasini@gmail.com",
+    }
+  }
+]
