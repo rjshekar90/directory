@@ -24,6 +24,9 @@ python manage.py createsuperuser
 
 #load preliminary data from .json file in fixtures
 
+use gunicorn for production deployment
+create Procfile for this gunicorn
+
 
 
 
